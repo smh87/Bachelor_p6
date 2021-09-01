@@ -1,0 +1,10 @@
+Avererage F1: 0.3302484379885865Avererage accuracy: 0.43135590797787965Avererage recall: 0.38350648257726816Avererage recall: 0.3533592033604177
+Results for Hierarchical with bayesian split with frequency 20 and threshold 0 for dataset IMSHAAvererage F1: 0.13575557177941827
+Avererage accuracy: 0.23684751384631725
+Avererage recall: 0.20219531358386514
+Avererage recall: 0.14963907523444359
+
+Results for Hierarchical with bayesian split with frequency 10 and threshold 0 for dataset IMSHAAvererage F1: 0.31080880816303835
+Avererage accuracy: 0.4150789014089888
+Avererage recall: 0.37821657333371334
+Avererage recall: 0.3219930342793864
