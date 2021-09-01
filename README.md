@@ -1,2 +1,4 @@
 # Bachelor_p6
-My Bachelor project
+Bachelor project
+Hierarchical segmentation with Bayesian changepoint detection for human activity recognition
+
